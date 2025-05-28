@@ -10,6 +10,18 @@ This service is designed to **identify customers across multiple contact records
 
 ---
 
+
+Example Test Cases
+Test Case 1: 
+![image](https://github.com/user-attachments/assets/631fc690-859e-4dd1-a185-1a363b4da21b)
+Test Case 2:
+![image](https://github.com/user-attachments/assets/b4ad3ae0-8b8c-43aa-a1bf-de716390596d)
+Test Case 3:
+![image](https://github.com/user-attachments/assets/ec5f8741-76f9-42dc-8feb-17e0ba958157)
+
+
+
+
 ### 🚀 Features
 
 * Accepts contact info (`email` / `phoneNumber`) and links/creates records.
