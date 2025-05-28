@@ -66,11 +66,13 @@ git clone https://github.com/yourusername/bitespeed-contact-app.git
 cd bitespeed-contact-app
 ```
 
-2. Install dependencies:
+2. **Install dependencies:**
 
 ```bash
 npm install
 ```
+
+This installs all required dependencies such as `express`, `typescript`, `typeorm`, `pg`, `dotenv`, `tsx`, and others defined in `package.json`.
 
 3. Set environment variables:
    Create a `.env` file:
